@@ -177,30 +177,7 @@
             ]
             }
             },
-            "dialogs": [{
-                "id": "ejemplo123",
-                "app_version": "",
-                "show_always": true,
-                "cancelable": true,
-                "title": {
-                  "predetermined": "Hola",
-                  "translations": [
-                    {
-                      "language": "aklsdmlmasdkm",
-                      "text": "ar"
-                    }
-                  ]
-                },
-                "description": {
-                  "predetermined": "Mundo",
-                  "translations": [
-                    {
-                      "language": "qlkdqmwdklm",
-                      "text": "ar"
-                    }
-                  ]
-                }
-              }],
+            "dialogs": [],
             "update": {
             "mandatory_version": 1,
             "recommendable_version": 1,
