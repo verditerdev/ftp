@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<defaults>
+    <entry>
+        <key>temp_files_viewer</key>
+        <value>true</value>
+    </entry>
+    <entry>
+        <key>promo_appsup_huawei_json</key>
+        <value>
+            {"active":true,"promo_start":"1668022940142","promo_end":"1668898800000","promo_message_title":"","promo_message_description":"","promo_message_button_vote":"","promo_message_button_postpone":"","postpone":7,"promo_button_id":"267","promoUrl":"https://developer.huawei.com/consumer/en/activity/digixActivity/digixdetail/201655277856046898?pageIndex=5&amp;regionId=Europe&amp;workId=201667835260216884"}
+        </value>
+    </entry>
+    <entry>
+        <key>configuration_v12</key>
+        <value>
+            {
+            "privacy": {
+            "privacy_policy_url": "https://sites.google.com/view/devtr/whatisremoved",
+            "admob_id": "ca-app-pub-9700692024510750~3371491382",
+            "terms_of_use_url": "https://sites.google.com/view/devtr/whatisremoved"
+            },
+            "licence": {
+            "paquete": "color.dev.com.whatsremoved",
+            "base_64_public_key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAtbENJnFLdrqWb8a5Xlec4V8N7DNX0mpPWcPBKauNE5p8MgiImu03sb0MAb3HAccllS35oiSlHB6gqjNr9Tkq7rugl49JE5hXzwWOw7uLLJUW2yDLKDvZnnp3NzQTGtx5L4m26E16tDEjX/bZKf5shodQfxnRdwPountjMSy3EQvrStM5Za4myLijWKcOIRZMRwItO+JvQluCzbNzpcnPNTMr18BvgHu2CglcYVRLhcA4LcBqV6cvonsLmHhGyfc12jR30cJqCafgyzsWMwkr8tASaK7I6E7X/Lz9/0q9aH1YpVgJgfiqqkBxIOq7vZK44lTNJRYod5HSl6OPaeXyVQIDAQAB",
+            "developers_email": "whatsremoveddev@gmail.com",
+            "store_urls": [
+            "https://play.google.com/store/apps/details?id=color.dev.com.whatsremoved"
+            ],
+            "certificados": []
+            },
+            "server": {
+            "remote_server_url": "https://files.devtr.es/wr_remote_configuration.xml",
+            "key": "",
+            "plausible": {}
+            },
+            "review": {
+            "app_name": "WhatisRemoved+",
+            "google_play_id": "color.dev.com.whatsremoved",
+            "app_gallery_id": "102366917"
+            },
+            "discounts": {},
+            "monetization": {
+            "premium_app": false,
+            "temporal_premium_enabled": true,
+            "register": {
+            "enabled": false,
+            "provider": "appvestor",
+            "appId": "appID",
+            "accountId": "accountID"
+            },
+            "ads": {
+            "cmp": {
+            "refresh_mandatory": 364,
+            "refresh_no_personalized": 7,
+            "refresh_no_ads": 3
+            },
+            "antiblock": {
+            "hosts": [
+            "devtr.es",
+            "a.admob.com",
+            "mm.admob.com",
+            "p.admob.com",
+            "r.admob.com",
+            "mmv.admob.com",
+            "aax-fe-sin.amazon-adsystem.com",
+            "rcm-na.amazon-adsystem.com",
+            "aax-us-east.amazon-adsystem.com",
+            "ir-na.amazon-adsystem.com",
+            "aax-eu.amazon-adsystem.com"
+            ]
+            },
+            "providers": {
+            "admob": {
+            "app_id": "ca-app-pub-9700692024510750~3371491382",
+            "banner": {
+            "tag": "Normal",
+            "priority": 5,
+            "code": "ca-app-pub-9700692024510750/3396088523",
+            "time_after": 0,
+            "time_before": 0
+            },
+            "rewarded": [
+            {
+            "tag": "Normal",
+            "priority": 5,
+            "code": "ca-app-pub-9700692024510750/9539220544",
+            "time_after": 0,
+            "time_before": 0
+            }
+            ],
+            "interstitial": [
+            {
+            "tag": "Normal",
+            "priority": 5,
+            "code": "ca-app-pub-9700692024510750/2796776317",
+            "time_after": 5000,
+            "time_before": 0
+            }
+            ],
+            "test_devices": []
+            },
+            "huawei": {
+            "app_id": "huawei",
+            "interstitial": [
+            {
+            "tag": "Normal",
+            "priority": 4,
+            "code": "l5rglfoa04",
+            "time_after": 5000,
+            "time_before": 0
+            }
+            ],
+            "test_devices": []
+            },
+            "devtr": {
+            "app_id": "wr",
+            "banner": {
+            "tag": "Normal",
+            "priority": 2,
+            "code": "wr",
+            "time_after": 0,
+            "time_before": 0
+            },
+            "interstitial": [
+            {
+            "tag": "Normal",
+            "priority": 2,
+            "code": "wr",
+            "time_after": 1000,
+            "time_before": 7000
+            }
+            ],
+            "test_devices": []
+            },
+            "local": {
+            "app_id": "wr",
+            "banner": {
+            "tag": "Normal",
+            "priority": 1,
+            "code": "wr",
+            "time_after": 0,
+            "time_before": 0
+            },
+            "interstitial": [
+            {
+            "tag": "Normal",
+            "priority": 1,
+            "code": "wr",
+            "time_after": 1000,
+            "time_before": 7000
+            }
+            ],
+            "test_devices": []
+            }
+            }
+            },
+            "billing": {
+            "enabled": true,
+            "purchaseActive": [
+            "quitar_anuncios"
+            ],
+            "subscriptionActive": [
+            "suscripcion"
+            ],
+            "donationActive": [
+            "donacion_cafe"
+            ],
+            "subscriptionsList": [
+            "suscripcion",
+            "suscripcion2"
+            ],
+            "purchasesList": [
+            "quitar_anuncios"
+            ],
+            "donationsList": [
+            "donacion_cafe"
+            ]
+            }
+            },
+            "dialogs": [{
+                "id": "ejemplo",
+                "app_version": "",
+                "show_always": true,
+                "cancelable": false,
+                "title": {
+                  "predetermined": "Hola",
+                  "translations": [
+                    {
+                      "language": "aklsdmlmasdkm",
+                      "text": "ar"
+                    }
+                  ]
+                },
+                "description": {
+                  "predetermined": "Mundo",
+                  "translations": [
+                    {
+                      "language": "qlkdqmwdklm",
+                      "text": "ar"
+                    }
+                  ]
+                }
+              }],
+            "update": {
+            "mandatory_version": 1,
+            "recommendable_version": 1,
+            "store_url": "https://"
+            },
+            "news": [],
+            "migration": {}
+            }
+        </value>
+    </entry>
+</defaults>
