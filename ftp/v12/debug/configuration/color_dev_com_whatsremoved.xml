@@ -179,7 +179,7 @@
             },
             "dialogs": [{
                 "id": "ejemplo",
-                "app_version": "",
+                "app_version": "all",
                 "show_always": true,
                 "cancelable": false,
                 "title": {
