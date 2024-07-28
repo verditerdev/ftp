@@ -178,8 +178,8 @@
             }
             },
             "dialogs": [{
-                "id": "ejemplo",
-                "app_version": "all",
+                "id": "ejemplo123",
+                "app_version": "",
                 "show_always": true,
                 "cancelable": false,
                 "title": {
