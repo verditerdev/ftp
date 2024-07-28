@@ -181,7 +181,7 @@
                 "id": "ejemplo123",
                 "app_version": "",
                 "show_always": true,
-                "cancelable": false,
+                "cancelable": true,
                 "title": {
                   "predetermined": "Hola",
                   "translations": [
